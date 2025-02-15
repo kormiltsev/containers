@@ -15,10 +15,10 @@ Welcome! This repository contains a collection of Dockerfiles for different use 
 The **Containers** project provides Dockerfiles for various live cases, helping set up containerized environments. This repository includes ready-to-use Dockerfiles tailored for different scenarios.
 
 ## Dockerfiles
-Here is a list of Dockerfiles available in this repository:
+Here is a list of Dockerfiles available in this repository. Each Dockerfile is located in its respective directory with a descriptive name for easy identification:
 - [**Goa gen**](https://github.com/kormiltsev/containers/tree/main/goagen): Autogenerate API handlers using Goagen without installing goagen and avoid version dependencies.
 - [**Go Builder**](https://github.com/kormiltsev/containers/tree/main/gobuilder): Build go applications from sourse code without go installed.
-Each Dockerfile is located in its respective directory with a descriptive name for easy identification.
+- [**CPPPO (C3PO)**](https://github.com/kormiltsev/containers/tree/main/c3po): A mock Rockwell Automation device. Responses on 44818 port with CIP.
 
 ## Getting Started
 To get started with this project, clone the repository:
